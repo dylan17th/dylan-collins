@@ -162,6 +162,10 @@ footer nav a {
     text-decoration: none;
     color:black;
 }
+
+.navigation a:hover{
+    color:lightgrey;
+}
  /*This is the selector for the first image*/
 
  .image{
@@ -201,3 +205,64 @@ footer nav a {
     background-color: dodgerblue ;
 }
 /*this is the end of the index.html page*/
+
+/*This is the syling selector for the about page middle content*/
+
+.mainly-contennt{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 2vh;
+}
+
+.boxers{
+ width:46%;
+ border-bottom: black dotted 2px;
+ padding-top: 3vh;
+ padding-bottom: 3vh;
+ line-height: 120%;
+ 
+}
+
+.mainly-contennt h2 {
+    padding-top: 2vh;
+}
+
+.imagesss{
+    padding-bottom: 3vh;
+    padding-top: 3vh;
+}
+/*This is the selector for the about section*/
+.about{
+    padding-bottom: 3vh;
+    border-bottom: black dotted 2px;
+    padding-left: 2vh;
+    line-height: 120%;
+}
+
+.button{
+    border:solid black 2px;
+    width:15vh;
+    text-align: center;
+    padding: 1vh 2vh;
+    border-radius: 10px;
+    margin-top: 2vh;
+}
+
+.button:hover{
+    background-color: lightgrey;
+}
+
+.together{
+    padding-top: 7vh;
+    padding-bottom: 5vh;
+    padding-left: 2.5vh;
+    line-height: 120%;
+}
+
+#we, #co {
+    padding-top: 4vh;
+}
+.bottomnav a:hover{
+    color:darkgray;
+}
