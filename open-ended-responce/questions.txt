@@ -1,0 +1,23 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Answer: If I were to describe semantic HTML to the next cohort I would stress the significance, meaning and reason behind a developer implementing the practice of semantic HTML. I would point out the negative outcomes and disadvantages that result from not using semantic HTML.  Semantic HTML makes it easier for the developer,  search engines, future programmers/editors  to read and understand your code. It provides a transparent model for all programmers and companies to practice.  
+
+2.Name two big differences between display: block; and display: inline;.
+
+Answer: The first difference between block and inline elements is that block elements start their own line and will take up as much space as the parent allows. However an inline element will only take up the space it needs and will not start on a new line. The second difference between an inline and block element is that a block element can receive a width and height whereas an inline element can not. 
+
+3.What are the 4 areas of the box model?
+
+Answer: 
+		1.Content 
+		2.Padding 
+		3.Border 
+		4.Margin 
+
+4.While using flexbox, which axis does the following property work on: align-items: center?
+
+Answer: While using flexbox, align-items: center work on the cross axis. This property would need to be included in the container of the flex-box. 
+
+5.Explain why git is valuable to a team of developers.
+
+Answer: Git is an extremely powerful and useful tool for a team of developers because of its ability to merge different versions of the same document. GIt provides a complex, but extremely efficient way to clone, save, add, commit, and push document onto a remote repository. Git allows developers to branch off from a master repository and lets numerous developers work on the same document without ever changing the original document until it is necessary. Git in the simplest term is a version control system.  
